@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AmAnfangWarGott()
+comment1.params=a\ b
+comment1.target=void\ reserveSeat(int,\ int)
+comment2.params=
+comment2.target=void\ printPlan()
+comment3.params=
+comment3.target=void\ clearConsole()
+numComments=4
